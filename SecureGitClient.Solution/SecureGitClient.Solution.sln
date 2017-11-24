@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureGitClient", "SecureGitClient\SecureGitClient.csproj", "{673208BE-4FEB-47D0-975A-6D0572E38376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673208BE-4FEB-47D0-975A-6D0572E38376}.Debug|x86.ActiveCfg = Debug|x86
+		{673208BE-4FEB-47D0-975A-6D0572E38376}.Debug|x86.Build.0 = Debug|x86
+		{673208BE-4FEB-47D0-975A-6D0572E38376}.Release|x86.ActiveCfg = Release|x86
+		{673208BE-4FEB-47D0-975A-6D0572E38376}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
